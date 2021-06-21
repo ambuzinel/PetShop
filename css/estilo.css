@@ -1,0 +1,66 @@
+@font-face {
+    font-family: Roboto;
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+.rectangulo1{
+    background-color: #222222;
+    font-weight: 400;
+    font-size: 10px;
+    color: #F3F3F3;
+}
+.rectangulo2{
+    background-color: #F0A83E;
+    font-weight: 700;
+    font-size: 20px;
+}
+nav{color: #FFFFFF;
+}
+.heroe{
+    background-color: greenyellow;
+}
+h3{
+    font-weight: 400;
+    font-size: 30px;
+    color: #3C2313;
+    text-align: right;
+}
+h5{
+    font-weight: 400;
+    font-size: 16px;
+    color: #3C2313;
+    ;
+}
+li{
+    list-style: none;
+}
+h2{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    color: #3C2313;
+}
+h4{
+    font-weight: 500;
+    font-size: 15px;
+    color: #3C2313;
+    ;
+}
+footer{
+    font-family: Roboto;
+    font-weight: 700;
+    background-color: #3C2313;
+    width: 1024px;
+    height: 284px;
+}
+.footer-bottom{
+    text-align: center;
+}
+.Localidad{
+
+}
+.Telefono{
+
+}
+.Mail{
+
+}
